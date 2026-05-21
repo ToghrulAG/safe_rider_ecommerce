@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+  "appName": "Safe Rider",
+  "login": "Login",
+  "register": "Register",
+  "categories": "Categories",
+  "cart": "Cart"
+}
